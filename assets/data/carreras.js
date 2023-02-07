@@ -5,6 +5,7 @@
         {
             "id": 1,
             "nombre": "Ingenieria Biomedica",
+            "img": "https://www.galileo.edu/trends-innovation/wp-content/uploads/2019/11/Biomedica-QueEs-1-1.jpg",
             "años": "5",
             "universidades/institutos": "PUCP, UPCH, UNMSM, UPC" ,
             "descripcion": "Combinación de los campos de ingeniería y medicina para fabricar productos o rediseñar aparatos que puedan ayudar en la salud de las personas.",
@@ -14,6 +15,7 @@
             "sueldo": "Recien egresados ganan S/1,891 a S/5,398 mensuales. El sueldo maximo es de S/11,622 mensuales",
             "estadisticas": "Se encuentra en el puesto 7 de la lista de los 10 mejores trabajos, que elabora el New YorkTimes junto a la CNN, y se proyecta con un crecimiento mayor a 61% en los próximos 10 años. En el caso de Perú, se espera que un egresado con más de 4 años de experiencia pueda ganar más de cinco mil soles, es decir, más de 70 mil soles anuales.",
             "profesionales": "Rossana Rivas"
+            
             
         },
 
