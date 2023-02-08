@@ -1,6 +1,6 @@
      var x= "x";
 
-     var carrerasData = {
+export var carrerasData = {
     "carreras": [
         {
             "id": 1,
