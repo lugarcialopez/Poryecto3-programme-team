@@ -1,35 +1,18 @@
 import {carrerasData} from "./data/carreras.js"
 
 var data= carrerasData;
+
 $(document).ready(
     function() {
         for ( let index=0; index<7 ; index ++) {
 
-            if(($("#myselect").val()=="general")||($("#myselect").val()==data.carreras[index].ubicacion))
-                {
-                    mostrarCarreras(index);
-                }
+            mostrarCarreras(index);
+                
 
             
         }
             
-    },
-    $("#myselect").change( function() {
-
-    }),
-    $("#myselect").change( function () {
-        $("#contenedorGeneral").children().not("#contenedorGeneral").remove();
-        for (let index = 0; index < 7; index++) {
-    
-        if(($("#myselect").val()=="general")||($( "#myselect" ).val()==data.carreras[index].ubicacion))
-           {
-            mostrarCarreras(index);
-           }
-               
-                    
-         }
-    })
-        
+    }
 );
     
 
@@ -38,7 +21,7 @@ function mostrarCarreras(index) {
     let div=$("<div></div>");
     div.addClass("ejemplos-carreras")
     let imagen = $("<img></img>");
-    imagen.sttr("src", data.carreras[index].img);
+    imagen.attr("src", data.carreras[index].img);
     imagen.addClass("img-carreras");
     div.append(imagen);
 
@@ -47,8 +30,8 @@ function mostrarCarreras(index) {
     nombreCarreras.addClass("nombre");
     div.append(nombreCarreras);
     let ubicacionCarreras=$("<p></p>");
-    ubicacionCarreras.append(data.carreras[index].tipo);
-    ubicacionCarreras.addClass("tipo");
+    ubicacionCarreras.append(data.carreras[index].ubicacion);
+    ubicacionCarreras.addClass("ubicacion");
     div.append(ubicacionCarreras);
 
     $('#contenedorGeneral').append(div);  
