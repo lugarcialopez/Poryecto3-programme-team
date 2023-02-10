@@ -15,26 +15,64 @@ export var carrerasData = {
             "cursos": "Matemáticas, Física, Biología, Quimica",
             "sueldo": "Recien egresados ganan S/1,891 a S/5,398 mensuales. El sueldo maximo es de S/11,622 mensuales",
             "estadisticas": "Se encuentra en el puesto 7 de la lista de los 10 mejores trabajos, que elabora el New YorkTimes junto a la CNN, y se proyecta con un crecimiento mayor a 61% en los próximos 10 años. En el caso de Perú, se espera que un egresado con más de 4 años de experiencia pueda ganar más de cinco mil soles, es decir, más de 70 mil soles anuales.",
-            "profesionales": "Rossana Rivas"
+            "profesionales": "Rossana Rivas",
             
             
         },
 
         {
             "id": 2,
-            "nombre": "Ingenieria Ambiental",
+            "Nombre": "Ingenieria Ambiental",
             "img": "https://287524.fs1.hubspotusercontent-na1.net/hubfs/287524/Imported_Blog_Media/cual-es-el-campo-laboral-de-la-ingenieria-ambiental-7-3.jpg",
-            "años": "5",
-            "instituciones": "PUCP,UNMSM,UPC,UNI",
-            "ubicacion": "Lima",
-            "descripcion": "su enfoque es para mejorar los procesos o diseñar cosas que sean mas eficientes y desperdicien menos dinero , tiempo , recursos en bruto, mano de obra y energía, siguiendo los estándares y regulaciones de seguridad.",
-            "campo laboral":"Los ingenieros industriales trabajan en una variedad de entornos diferentes. Esto podría incluir observar cómo funciona un proceso en una fábrica o examinar los flujos de trabajo en un hospital. Cada dato se puede tomar y examinar usando una computadora para resolver problemas.",
+            "Años": "5",
+            "Instituciones": "PUCP,UNMSM,UPC,UNI",
+            "Ubicacion": "Lima",
+            "Descripcion": "su enfoque es para mejorar los procesos o diseñar cosas que sean mas eficientes y desperdicien menos dinero , tiempo , recursos en bruto, mano de obra y energía, siguiendo los estándares y regulaciones de seguridad.",
+            "Campo laboral":"Los ingenieros industriales trabajan en una variedad de entornos diferentes. Esto podría incluir observar cómo funciona un proceso en una fábrica o examinar los flujos de trabajo en un hospital. Cada dato se puede tomar y examinar usando una computadora para resolver problemas.",
             "A que se dedica": " Ellos trabajan en todas las etapas de producción y procesamiento. Esto puede implicar el diseño de un producto o proceso desde el principio o la adaptación y actualización, expansión o reconfiguración de uno ya existente.",
-            "Cursos" : "Evaluación de impacto ambiental. Restauración y remediación ambiental.Energías renovables.Resolución de conflictos socio ambientales."
-            
+            "Cursos" : "Evaluación de impacto ambiental. Restauración y remediación ambiental.Energías renovables.Resolución de conflictos socio ambientales.",
+            "Sueldos": "hombres una cantidad de 4.500$ y las mujeres 3.500$",
+            "Estadisticas" : "Es uno de los mas necesitados en el futuro por que en algun momento en el mundo se les acabara lso recursos XD",
+
+        },
+       
+        {
+            "id": 3,
+            "Nombre": "Ingeniería Civil",
+            "img": "https://utec.edu.pe/sites/default/files/styles/blog_full/public/civil_0.jpg" ,
+            "Años": "5",
+            "Universidades/institutos": "MSM, PUCP, UNMSM, UPCA, UNI",
+            "Ubicacion": "Lima",
+            "Descripcion" : "consiste en el mantenimiento, control y operación de construcciones. De igual manera, de realizar proyectos o dirigirlos en las obras de construcción o calcular y diseñar las estructuras para obtener una resistencia y durabilidad del establecimiento.",
+            "Campo laboral": "pueden trabajar en proyectos de viviendas, empresas de obras viales, empresas constructoras, docencia universitaria, edificios multifamiliares, entre otros.31 mar. 2020.",
+            "A qué se dedica": "Un ingeniero civil es aquel encargado de planificar y mantener proyectos de infraestructura como aeropuertos, carreteras, presas y drenaje de aguas pluviales. Este profesional ayuda a construir y mantener infraestructuras como carreteras, puentes, edificios o recursos hídricos.",
+            "Cursos": "Dibujo técnico , Resistencia de materiales. Mecánica de fluidos. Hidráulica de canales. Hidrología. Obras hidráulicas. Sistemas de agua y alcantarillado. Topografía.",
+            "Sueldo": "hombres (74%) y mujeres (26 %) - 2023.",
+            "Estadísticas": "Se encuentra en el puesto 7 de la lista de los 10 mejores trabajos para.",
+            "Profesionales": "Rossana Rivas"
+
         },
         
-        { "id": 3,
+        {
+            "id": 4,
+            "nombre": "Ingeniería Sistemas",
+           "img":"https://ucontinental.edu.pe/www/wp-content/uploads/2016/02/ing-sistemas-e-informatica-u-continental.jpg",
+            "años": "5",
+            "universidades": "MSM, PUCP, UNMSM, UPCA, UNI",
+            "ubicacio" : "Lima",
+            "descripción": "Es capaz de implantar nuevos proyectos que garanticen el crecimiento tecnológico de la sociedad, planea, analizar, diseñar e implantar soluciones que permitan la convergencia de tecnologías de información y comunicación para el desarrollo sostenible de comunidades, proporcionando nuevas.", 
+
+            "campo laboral": "podrás desempeñarte como analista de sistemas de información, administrador de proyectos informáticos, administrador o consultor de tecnologías de la información, desarrollador de softwares, auditor de sistemas de información e investigador.",
+            "A qué se dedica": "Supervisan todos los aspectos de un proyecto o sistema en una variedad de campos, como software, transporte, desarrollo de productos y fabricación. Su trabajo es desarrollar un sistema que cree un producto desde el principio hasta el final.",
+            "Cursos": "Humanidades. Ciencias de la Computación. Administración. Tecnologías de la Información. Ciencias de la Computación Sistemas de Información.",
+            "sueldo" : "hombres 74% y mujeres 26 % - 2023.",
+            "estadísticas": "Se encuentra en el puesto 7 de la lista de los 10 mejores trabajos para.",
+            "profesionales": "Hernandez Figueroa"  
+        },
+
+
+        
+        { "id": 5,
             "nombre": "Ingenieria de Telecomunicaciones",
             "img": "https://elcomercio.pe/resizer/kO3L_D4eWZzvdhLvKLIRFCRauoE=/580x330/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/7XE2QURZOBE2HJOQ5FNMIBOLOY.jpg",
             "años": "5",
@@ -49,7 +87,7 @@ export var carrerasData = {
             "profesionales": "Armando Salazar"
         },
 
-        {"id": 4,
+        {"id": 6,
          "nombre": "Ingeniería de Diseño Gráfico",
          "img" : "https://www.senati.edu.pe/sites/default/files/2017/carrera/11/carrera-dual-diseno-grafico-senati-1800x1190.jpg",
          "años": "5",
@@ -61,12 +99,12 @@ export var carrerasData = {
          "cursos": "Matemáticas, Física, Diseño.",
          "sueldo": "S/. 2298 a más",
          "estadisticas": "En UTP, 9 de cada 10 egresados trabaja al terminar la carrera",
-         "profesionales": "Stephanie Alvarez Roca"
+         "profesionales": "Stephenia Guzman"
 
                 
         },
 
-        {"id": 5,
+        {"id": 7,
         "nombre": "Ingenieria Textil",
         "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Festudiaperu.pe%2Fcarrera-pregrado%2Fingenieria-textil%2F&psig=AOvVaw2yZFSRmDXvcTAPCuHmHrid&ust=1675898511094000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJi0ls7GhP0CFQAAAAAdAAAAABAD",
         "años": "5",
@@ -82,7 +120,7 @@ export var carrerasData = {
 
         },
 
-        {"id": 6,
+        {"id": 8,
         "nombre": "Ingenieria de Software",
        "img": "https://estudiaperu.pe/wp-content/uploads/2019/08/Ingenier%C3%ADa-en-software-1-e1579883076601.jpg",
         "años": "5",
@@ -94,7 +132,9 @@ export var carrerasData = {
         "cursos": "Matemáticas, Física, Sistemas informáticos",
         "sueldo": " S/ 2,708 - S/ 10,322 por mes",
         "estadisticas": "El Banco Interamericano de Desarrollo (BID) advierte que para el 2025 la industria del software empleará a más de 1,2 millones de programadores en la región.",
-        "profesionales": "Elio Flores"}
+        "profesionales": "Elio Flores"
+    },
+
 
     ]
     }
