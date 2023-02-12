@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(146, 172, 230);
+    
+
+    
+}
+
+.ejemplos-carreras{
+    width: 100%;
+}
+
+.img-carreras{
+    border: solid white 1px;
+    background-color: aqua;
+    text-align: center;
+    width: 33%;
+}
+
+.nombre,.ubicacion{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#contenedorGeneral{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
